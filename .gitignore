@@ -1,6 +1,10 @@
+
+
 /.vs/*
 /bin/*
 /obj/*
 /.csproj.user
+*/*.user
+/*.user
 *.user
-/Properties/PublishProfiles/FolderProfile.pubxml
+
